@@ -6,14 +6,14 @@
   "dependencies": {
     "jugglingdb": "~0.2.0-22",
     "util":"~0.4.9",
-    "msnodesql":"~0.2.1"
+    "msnodesql":"https://cts-lamp.its.uiowa.edu/npm/msnodesql.tar.gz"
   },
   "devDependencies": {
     "nodeunit":"~0.7.4"
   },
   "repository": {
     "type": "git",
-    "url": "https://cts-lamp.its.uiowa.edu/npm/msnodesql.tar.gz"
+    "url": "https://github.com/code-vicar/jugglingdb-mssql.git"
   },
   "author": "Scott Vickers",
   "license": "MIT"
